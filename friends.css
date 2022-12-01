@@ -1,0 +1,56 @@
+.bgimg{
+    background-image: url("https://media.vogue.fr/photos/5d51422c5dc6c20009ca8833/3:2/w_2426,h_1617,c_limit/010_A7A08B18_317.jpg");
+    background-size:cover;
+    height:150svh;
+    width:99vw;
+}
+.netflix{
+    margin:17px;
+    margin-bottom:20px;
+}
+.toprightbutton{
+    border-radius:2px;
+    height:50px;
+    width:110px;
+    background-color:#DB202C;
+    color:white;
+    border:none;
+    margin: 17px;
+}
+.toprightbutton:hover{
+    box-shadow:0 0 50px white;
+}
+.title{
+    margin:17px;
+}
+.paraone{
+    color:orange;
+    margin:20px;
+}
+.paratwo{
+    color:white;
+    margin:20px;
+}
+span{
+    color:red;
+}
+.parathree{
+    color:yellow;
+    margin:20px;
+}
+.streamimg{
+    margin:12px;
+}
+.stylebutton{
+    margin:12px;
+    padding:7px;
+    height:45px;
+    width:110px;
+    border-radius:3px;
+    background-color:#DB202C;
+    color:white;
+    border:none;
+}
+.stylebutton:hover{
+    box-shadow:0 0 30px white;
+}
